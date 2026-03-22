@@ -1,0 +1,3 @@
+A partir da análise deste dashboard, é possível observar que a academia possui um muitos alunos, com uma distribuição relativamente equilibrada entre os sexos, embora haja uma leve predominância do público masculino. Em relação às atividades, nota-se que modalidades como Yoga e Cardio apresentam maior quantidade de praticantes, enquanto Natação e Futebol possuem menor adesão, indicando uma preferência por atividades mais acessíveis e voltadas ao bem-estar.
+
+A análise da mediana de idade dos alunos mostra que o público é majoritariamente adulto, com idades próximas entre si. Quando observamos a idade por tipo de atividade, percebe-se que diferentes modalidades atraem diferentes faixas etárias, sugerindo que o perfil dos alunos varia conforme a atividade escolhida.
